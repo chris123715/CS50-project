@@ -1,0 +1,9 @@
+A SIMPLE CALCULATOR :)
+Video Demo :- https://youtu.be/j_y7cvN8raM
+
+Description :- This Python program is a compact yet powerful calculator, capable of handling essential arithmetic operations. Designed for simplicity and ease of use. This calculator that I have created helps you operate with addition, subtraction, multiplication and division. Users can add using the "+" operator, subtract using the "-" operator, multiply using the "*" operator and divide using the "/" operator. With the help of a question at the end of their calculation the user can decide whether or not to continue their calculation by typing a simple "yes" or "no".
+ You can do calculations upto any number you desire. This program includes mathematical operations with integers as well as floating numbers.Users can perform multiple calculations without having to restart the program.
+ Initially, when I ran the program a ValueError popped up, to avoid this I used the try and except method.
+ This calculator also makes sure that only numbers are used and provides a "Not Valid!" message when it isn't used. The calculator even knows that with the division operator you cannot divide by zero as it is undefined.
+ It is very user-friendly and can be used with basic skills.
+ A simple calculator will help you to solve basic mathematical problems easily and help you be at ease. It is also very time efficient rather than calculating everything on paper.It's a suitable choice for users who need to perform calculations without the need for a full-fledged graphical calculator application.Hence, I chose to design a calculator.
